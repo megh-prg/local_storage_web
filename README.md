@@ -1,3 +1,6 @@
+  *WHAT IS LOCAL STORAGE AND WHY IT IS IMPORTANT?*
+
+
 Local storage is a JavaScript property that allows web applications to store data in a user's browser,
 even after the browser is closed or the computer is restarted.
 The data is stored as key-value pairs and doesn't expire, so it's available for future sessions.
